@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HP Enriquez @h2enrique
 - 👀 I’m interested in web-dev
-- 🌱 I’m currently learning test automation
+- 🌱 I’m currently learning web test automation
 - 💞️ I’m looking to collaborate on projects with curious people alike
 - ✨ Certificates and projects: 
       - https://www.freecodecamp.org/fcc7aaeaddc-fcf4-45cd-8d5c-a9b1781ab7cc
